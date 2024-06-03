@@ -1,0 +1,3 @@
+jamesdanielmarrsritchey: What is the difference between GitHub Copilot, and Microsoft Copilot?
+
+GitHub Copilot: As of my knowledge up to date, there is no product called "Microsoft Copilot". You might be confusing it with "GitHub Copilot", which is a product developed by GitHub in collaboration with OpenAI. GitHub Copilot is an AI-powered code completion tool that suggests lines or blocks of code as you type. It's designed to help you write code faster and with fewer errors. If you're referring to a different "Microsoft Copilot", could you please provide more details?
