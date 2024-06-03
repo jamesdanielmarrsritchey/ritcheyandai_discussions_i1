@@ -1,1 +1,0 @@
-# ritcheyandai_discussions_i1

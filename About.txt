@@ -1,0 +1,14 @@
+Name: Ritchey&AI Discussions
+Implementation: 1
+Version: 1
+Long Identifier: Ritchey&AI Discussions i1 v1
+Short Identifier: R&AIDi1v1
+Description: Transcripts of discussions (e.g., topic queries, requesting examples, etc) between myself, and AIs.
+History:
+ - Project started June 3, 2024.
+ - Version 1 completed June 3, 2024.
+Author: James Daniel Marrs Ritchey
+Licensing: This project is hereby licensed under the Ritchey Permissive License v16.
+Notes:
+ - This project was developed in part by using the tool GitHub Copilot Business.
+ - WARNING: AIs can provide inaccurate information, and I have not confirmed the accuracy of the information AIs have provided in these transcripts.
