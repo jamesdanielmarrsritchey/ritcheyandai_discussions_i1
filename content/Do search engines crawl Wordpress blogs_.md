@@ -1,0 +1,3 @@
+jamesdanielmarrsritchey: Do search engines crawl Wordpress blogs?
+
+GitHub Copilot: Yes, search engines do crawl WordPress blogs. WordPress is designed to be SEO friendly out of the box. However, the visibility of your WordPress blog to search engines is dependent on your settings. You can check this in your WordPress admin dashboard under Settings > Reading. Make sure the box for 'Discourage search engines from indexing this site' is unchecked. Additionally, you can use various SEO plugins like Yoast SEO to further optimize your WordPress blog for search engines.
