@@ -1,8 +1,8 @@
 Name: Ritchey&AI Discussions
 Implementation: 1
-Version: 9
-Long Identifier: Ritchey&AI Discussions i1 v9
-Short Identifier: R&AIDi1v9
+Version: 10
+Long Identifier: Ritchey&AI Discussions i1 v10
+Short Identifier: R&AIDi1v10
 Description: Transcripts of discussions (e.g., topic queries, requesting examples, etc) between myself, and AIs.
 History:
  - Project started June 3, 2024.
@@ -15,6 +15,7 @@ History:
  - Version 7 completed June 10, 2024.
  - Version 8 completed June 16, 2024.
  - Version 9 completed June 23, 2024.
+ - Version 10 completed June 26, 2024.
 Author: James Daniel Marrs Ritchey
 Licensing: This project is hereby licensed under the Ritchey Permissive License v16.
 Notes:
